@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Zahra Abhari",
+    "image": "/images/1.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "zahra_ab",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+
+  {
+    "id": 2,
+    "name": "Alireza ebrahimi",
+    "image": "/images/2.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "alireza",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+  {
+    "id": 3,
+    "name": "Negar Bigdeli",
+    "image": "/images/3.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "neegaar",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+  {
+    "id": 4,
+    "name": "Sam Ebrahimi",
+    "image": "/images/4.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "sami",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+  {
+    "id": 5,
+    "name": "Arman Dashti",
+    "image": "/images/5.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "R_man",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+  {
+    "id": 6,
+    "name": "Dina Mosavi",
+    "image": "/images/6.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "DiiNa",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  },
+  {
+    "id": 7,
+    "name": "Shima Sedaghat",
+    "image": "/images/7.jpg",
+    "lastSeen": "2022-09-12T12:36:41.261Z",
+    "userId": "Shima_sedaghat",
+    "phoneNumber": "09199749769",
+    "bio": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "users": [
+      {
+        "id": 1,
+        "name": "Zahra Abhari",
+        "image": "/images/1.jpg",
+        "lastSeen": "2022-09-12T12:36:41.261Z",
+        "userId": "zahra_ab",
+        "phoneNumber": "09199749769",
+        "bio": ""
+      },
+      {
+        "id": 2,
+        "name": "Alireza ebrahimi",
+        "image": "/images/2.jpg",
+        "lastSeen": "2022-09-12T12:36:41.261Z",
+        "userId": "alireza",
+        "phoneNumber": "09199749769",
+        "bio": ""
+      }
+    ],
+    "messages": [
+      {
+        "id": 1,
+        "text": "Hello,how are u?",
+        "date": "2022-09-12T12:36:41.261Z",
+        "sender": {
+          "id": 1,
+          "name": "Zahra Abhari",
+          "image": "/images/1.jpg",
+          "lastSeen": "2022-09-12T12:36:41.261Z",
+          "userId": "zahra_ab",
+          "phoneNumber": "09199749769",
+          "bio": ""
+        },
+        "seen": false
+      }
+    ]
+  }
+]
